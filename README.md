@@ -1,4 +1,4 @@
--- extra funcs below to support solara
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/malewaretaker/testing/main/main"))()
 
