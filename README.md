@@ -1,16 +1,7 @@
 --[[
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/malewaretaker/testing/main/main"))()
-
--- didnt  test btw ping @kodabladi if it  doesn't work
 --[[
 
-// Misery Source || v1.0.5
-// Hi calls || << >>
-
-]]--
-
-print("=")
 
 --// Initialize
 if not game:IsLoaded() then
